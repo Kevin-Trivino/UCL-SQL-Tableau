@@ -9,7 +9,7 @@ https://public.tableau.com/views/UCLDashboard_17127725231800/Dashboard43?:langua
 The sql script I use to preprocess my data for tableau along with create some queries to preview what I may focus on in my visualizations.
 
 
-# Data Sources
+## Data Sources
 ## ucl_stats.csv 
 Contains data on every team that competed in the UCL since 1993 along with supplementary information about their stats such as wins, losses, goal differential etc.
 
