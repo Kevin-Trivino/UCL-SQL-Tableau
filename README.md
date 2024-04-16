@@ -2,7 +2,7 @@
 This project aims to examine the history of the UEFA Champions league soccer tournament and look into which teams and nations have performed the best along with specific performance statistics from each team. I used SQL and Tablea for the project and have provided the two data files, sql script and tablea dashboard below.
 
 ## UCL Dashboard.twbx
-The dashboard created in tableau showing a breakdown of the top teams throughout the history tournament along with some peroformance statistics. Not sure if you need Tableau Desktop to access the file so I have also provided a link to the Tableau Public page where I have posted the dashboard and can be viewed and downloaded from there.
+The interactive dashboard created in tableau showing a breakdown of the top teams throughout the history tournament along with some peroformance statistics. Not sure if you need Tableau Desktop to access the file so I have also provided a link to the Tableau Public page where I have posted the dashboard and can be viewed and downloaded from there.
 https://public.tableau.com/views/UCLDashboard_17127725231800/Dashboard43?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ![Screenshot 2024-04-16 at 14 22 43](https://github.com/Kevin-Trivino/UCL-History-Analysis/assets/94009796/cdd27b0f-d852-4104-8b65-9d1743c6e657)
