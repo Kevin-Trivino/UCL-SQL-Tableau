@@ -14,7 +14,7 @@ WHERE champions = 1;
 -- # of champtionships per team 
 SELECT team, SUM(champions) as Championships
 FROM ucl_stats
-where champions = 1 and year 
+where champions = 1
 GROUP BY team
 ORDER BY count(champions) DESC;
 
