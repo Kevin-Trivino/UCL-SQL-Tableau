@@ -9,7 +9,7 @@ https://public.tableau.com/views/UCLDashboard_17127725231800/Dashboard43?:langua
 
 
 ## UCLScript.sql
-The sql script used to preprocess the data for tableau along with create some queries to preview possibly focuses for visualizations.
+The sql script used to preprocess and query data for visualizaiton in Tableau.
 
 
 ## Data Sources
