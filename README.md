@@ -1,4 +1,4 @@
-# UCL-SQL-Visualization
+# UCL-SQL-Tableau
 This project aims to examine the history of the UEFA Champions league soccer tournament and look into which teams and nations have performed the best along with specific performance statistics from each team. I used SQL and Tablea for the project and have provided informaiton on the two data files used as well as the SQL script and Tableau dashboard created.
 
 ## UCL Dashboard.twbx
