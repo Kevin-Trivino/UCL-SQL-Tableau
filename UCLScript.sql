@@ -1,4 +1,3 @@
--- create database UCL;
 USE UCL;
 
 ## Exploring ucl_stats data ##
